@@ -1,1 +1,3 @@
 # STOAI
+Sofya Dudko
+labss
